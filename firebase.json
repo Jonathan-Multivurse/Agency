@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "multivurse-for-life",
+    "public": "build/",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
